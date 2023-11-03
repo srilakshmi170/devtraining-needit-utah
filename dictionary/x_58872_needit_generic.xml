@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="b3d25ad1979eb110be307c80f053afd5" label="Generic" max_length="40" name="x_58872_needit_generic" type="collection">
+        <element label="fied 3" max_length="40" name="fied_3" type="string"/>
+        <element label="field 1" max_length="40" name="field_1" type="string"/>
+        <element label="field 2" max_length="40" name="field_2" type="string"/>
+    </element>
+</database>
